@@ -130,8 +130,8 @@ header {
   padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
-  width: 50;
-  height: 50;
+  width: 100px;
+  height: 100px;
 }
 
 .heading {
@@ -146,7 +146,7 @@ header {
 
 .lesson {
   float: left;
-  width: 100px;
+  width: 50px;
 }
 
 .lesson-icon {
