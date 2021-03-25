@@ -25,7 +25,7 @@ a {
   padding: 180px 0 50px 0;
   background-image: url(https://cms.sehatq.com/public/img/article_img/5-penyakit-berbahaya-yang-bisa-dicegah-dengan-manfaat-kopi-pahit-1579949756.jpg);
   background-size: cover;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -146,7 +146,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 50px;
 }
 
 .lesson-icon {
@@ -180,7 +180,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #4169E1;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
