@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Arial";
+  font-family: "Lucida Grande";
 }
 
 a {
@@ -60,7 +60,7 @@ a {
 }
 
 .twitter {
-  background-color: #FF0000;
+  background-color: #55acee;
 }
 
 .btn {
@@ -144,7 +144,7 @@ header {
 
 .lesson {
   float: left;
-  width: 100px;
+  width: 25%;
 }
 
 .lesson-icon {
@@ -178,7 +178,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #4169E1;
+  background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
@@ -202,4 +202,3 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
-
